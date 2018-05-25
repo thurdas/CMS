@@ -38,7 +38,7 @@ const te = this._test()
         var tempDate = new Date();
         if(this.props.post.date > this.props.post.createdAt) {
             return(
-                <p>yessss</p>
+                
             )
         }
 }
