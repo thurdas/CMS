@@ -1,0 +1,3 @@
+targets:
+  dashboard: shared-eu-west-1/cjh3aeru15lh20106030twfni
+  default: dashboard
